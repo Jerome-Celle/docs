@@ -8,13 +8,16 @@ Welcome to test1's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: LDA:
+
+   lda
 
 
 
 Indices and tables
 ==================
 
+* :ref:`lda`
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
