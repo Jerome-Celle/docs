@@ -1,0 +1,8 @@
+# .readthedocs.yml
+
+build:
+  image: latest
+
+python:
+  version:
+  setup_py_install: true
