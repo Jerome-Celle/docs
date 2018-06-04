@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'test1'
+project = 'Technical Guide Reflex'
 copyright = '2018, Jeff'
 author = 'Jeff'
 
