@@ -2,10 +2,12 @@
 Description of the LDA
 ======================
 The LDA is split into two ranges for the standard Reflex:
+
 - An initial general range of 512 characters,
 - A second range, from position 513 to position 778, specific to each process.
-The range starting at position 779 and ending at position 1024 is reserved for specific
-client developments.
+
+    The range starting at position 779 and ending at position 1024 is reserved for specific
+    client developments.
 
 +-------+-------+-----------------------------------------------------------+
 | Start | End   | Description                                               |
